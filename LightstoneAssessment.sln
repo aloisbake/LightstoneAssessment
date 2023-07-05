@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LightstoneAssessment", "LightstoneAssessment\LightstoneAssessment.csproj", "{2A74D4F4-2C9C-4929-9ECA-C960C44EECB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightstoneAssesmentTests", "LightstoneAssesmentTests\LightstoneAssesmentTests.csproj", "{DC230CE1-30BF-488D-B8CB-5BF45692AFB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A74D4F4-2C9C-4929-9ECA-C960C44EECB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A74D4F4-2C9C-4929-9ECA-C960C44EECB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A74D4F4-2C9C-4929-9ECA-C960C44EECB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A74D4F4-2C9C-4929-9ECA-C960C44EECB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC230CE1-30BF-488D-B8CB-5BF45692AFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC230CE1-30BF-488D-B8CB-5BF45692AFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC230CE1-30BF-488D-B8CB-5BF45692AFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC230CE1-30BF-488D-B8CB-5BF45692AFB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A96AA60C-ED4E-4CB3-9EC4-9BCE5F41EF3C}
+	EndGlobalSection
+EndGlobal
